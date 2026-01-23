@@ -20,7 +20,7 @@ I care a lot about **clarity, correctness, and shipping things that actually get
 ---
 
 ### 🔭 Featured Projects
-- **IBRogue** – A web platform that helps IB students study by converting and organizing exam questions into structured, searchable questions  
+- **IBRogue** – A web platform that helps IB students study by converting and organizing exam content into structured, searchable questions
   *PDF parsing · OCR · LaTeX · Flask · React · Databases*  
   🌐 https://ibrogue.com
 
@@ -59,4 +59,5 @@ I care a lot about **clarity, correctness, and shipping things that actually get
 - 🎮 Games: https://nikman800.itch.io/  
 - 🔗 LinkedIn: https://www.linkedin.com/in/nikhil-mandke-41ab36208/
 
-Feel free to explore my repositories — and don’t hesitate to reach out!
+Feel free to explore my repositories — I’m always happy to connect or discuss projects!
+
