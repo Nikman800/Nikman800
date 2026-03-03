@@ -54,8 +54,7 @@ I care a lot about **clarity, correctness, and shipping things that actually get
 ---
 
 ### 📫 Let’s Connect
-- 🌐 Portfolio / Product: https://ibrogue.com  
-- 💻 GitHub: https://github.com/Nikman800  
+- 🌐 IBRogue: https://ibrogue.com  
 - 🎮 Games: https://nikman800.itch.io/  
 - 🔗 LinkedIn: https://www.linkedin.com/in/nikhil-mandke-41ab36208/
 
